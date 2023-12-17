@@ -1,0 +1,117 @@
+.unselectable{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.statsPanel {
+	width: 120px;
+	height: 52px;
+	position: absolute;
+	z-index: 11000;
+}
+.actionBar {
+	width: 200px;
+	height: 50px;
+	position: absolute;
+	z-index: 11000;
+	
+}
+.actionSlotSelector {
+	width: 200px;
+	height: 240px;
+	position: absolute;
+	z-index: 11000;
+
+}
+.okCancelDialog {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	z-index: 15000;
+}
+
+.infoDialog {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	z-index: 11000;
+}
+
+.cutSceneDialog {
+	width: 300px;
+	height: 250px;
+	position: absolute;
+	z-index: 9999;
+
+}
+.shopPanel {
+
+	width: 200px;
+	height: 240px;
+	position: absolute;
+	z-index: 8888;
+
+}
+.preferencesPanel {
+	width: 200px;
+	height: 60px;
+	position: absolute;
+	z-index: 11000;
+
+
+}
+
+.hpBars {
+	width: 350px;
+	height: 50px;
+	position: absolute;
+	z-index: 11000;
+
+
+}
+
+.miniMap {
+	width: 85px;
+	height: 49px;
+	position: absolute;
+	z-index: 9999;
+	
+
+}
+
+.castBar {
+	width: 60px;
+	height: 10px;
+	position: absolute;
+	z-index: 9999;
+}
+
+.enemyHealthBar {
+	width: 60px;
+	height: 30px;
+	position: absolute;
+	z-index: 9999;
+}
+
+.enterWorldButton {
+	width: 100px;
+	height: 120px;
+	position: absolute;
+	z-index: 8000;
+}
+.dockButton {
+	width: 50px;
+	height: 30px;
+	position: absolute;
+	z-index: 9999;
+}
+
+.joystick {
+	position: absolute;
+	z-index: 10000;
+}
+
